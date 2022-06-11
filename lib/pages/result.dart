@@ -30,7 +30,7 @@ class _ResultState extends State<Result> {
               child: Text(
                 'DEPRESSION SEVERITY\n\n: $n',
                 textAlign: TextAlign.center,
-                style: const TextStyle(fontSize: 30),
+                style: const TextStyle(fontSize: 28),
               ),
             ),
             Container(

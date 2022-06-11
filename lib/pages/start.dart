@@ -30,9 +30,9 @@ class _STState extends State<ST> {
                   // padding: const EdgeInsets.symmetric(vertical: 60),
                   alignment: Alignment.center,
                   child: const Text(
-                    "MENTAL HEALTH TEST",
+                    "MENTAL HEALTH TRACKER",
                     style: TextStyle(
-                      fontSize: 28,
+                      fontSize: 26,
                       fontWeight: FontWeight.bold,
                       color: Colors.red,
                     ),

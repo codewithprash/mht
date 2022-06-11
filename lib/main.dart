@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(primaryColor: Colors.pink.shade100),
-      title: 'Mental Health Test',
+      title: 'Mental Health Tracker',
       initialRoute: '/',
       routes: {
         '/': (context) => const ST(),
