@@ -1,6 +1,5 @@
 # mht
 
-Mental Health Tracker
 
 ![play_store_feature_graphic](https://user-images.githubusercontent.com/87913082/173177721-2a75cc0d-3672-4c73-856d-1037d1500935.png)
 
